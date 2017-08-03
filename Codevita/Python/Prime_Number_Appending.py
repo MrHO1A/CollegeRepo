@@ -1,5 +1,5 @@
 # Prime number appending problem codevita 2017(Sat) July
-
+# This Version uses tradiational prime number generation rather then sieve of Eratosthenes
 
 def Prime_Check(num):
     if num == 0 or num == 1:
