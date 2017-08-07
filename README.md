@@ -1,4 +1,4 @@
-# PCollege Repo
+# College Repository
 
 This repository contains all of my projects and Code Competitions Answers. 
 
