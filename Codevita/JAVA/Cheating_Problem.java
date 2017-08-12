@@ -69,7 +69,7 @@ public class Cheating_Problem {
     }
     public static void main(String[] args){
         Scanner Sc = new Scanner(System.in);
-        System.out.println("Enter Number Of Rows -> ");
+        System.out.println("Enter depth -> ");
         int Depth = Sc.nextInt();
         if(Depth>10){
             System.exit(0);
