@@ -1,3 +1,7 @@
+/* Jhonny and Peppermint codevita Question 28:07:2017
+* Author - Aman Vishwakarma (https://fb.com/aman.vishwakarma.xyz
+*/
+
 /* Including Main Function Files or Header files */
 # include <stdio.h>
 # include <math.h>
